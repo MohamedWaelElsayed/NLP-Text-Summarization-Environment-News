@@ -15,19 +15,19 @@ PROJECT COMPLETION METRICS
 Milestone 1: Data Exploration
 ├─ Dataset Size: 75,000+ samples
 ├─ Data Quality: 99%+ clean
-├─ Processing Time: 1-2 hours
+├─ Processing Time: ~
 └─ Status: ✅ COMPLETE
 
 Milestone 2: LSTM Seq2Seq + Attention
 ├─ Model Parameters: 8.9 Million
-├─ Training Time: 40 minutes (GPU)
+├─ Training Time: ~2-2.5 hours (GPU)
 ├─ F1-Score: 0.45-0.55
 ├─ Validation Loss: Converged smoothly
 └─ Status: ✅ COMPLETE
 
 Milestone 3: Fine-Tuned BART
 ├─ Model Parameters: 406 Million (pre-trained)
-├─ Fine-tuning Time: 20 minutes (GPU)
+├─ Fine-tuning Time: 1 hour (GPU)
 ├─ ROUGE-1: 0.48
 ├─ ROUGE-2: 0.24
 ├─ ROUGE-L: 0.43

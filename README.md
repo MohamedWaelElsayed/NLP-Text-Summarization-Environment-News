@@ -73,7 +73,7 @@ pip install -r requirements.txt
 2. **Local Jupyter Notebook**
 
    ```bash
-   jupyter notebook NLP_Project.ipynb
+   jupyter-notebook NLP_Project.ipynb
    ```
 
 3. **Run Specific Milestone**
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 **Performance**:
 
 - Average F1 Score: ~0.45-0.55 (on 500 validation samples)
-- Training time: ~30-40 minutes (GPU)
+- Training time: ~2-2.5 hours (GPU)
 
 ### Milestone 3: Fine-Tuned BART
 
@@ -141,6 +141,8 @@ pip install -r requirements.txt
 - ROUGE-1: ~0.45-0.50
 - ROUGE-2: ~0.20-0.25
 - ROUGE-L: ~0.40-0.45
+
+- Training time: ~1-1.5 hours (GPU)
 
 ---
 
@@ -287,19 +289,6 @@ This project demonstrates:
 
 ---
 
-<<<<<<< HEAD
-=======
-## 📧 Contact & Support
-
-For questions or improvements:
-
-- Check the milestone-specific READMEs for detailed documentation
-- Review the Jupyter notebook for step-by-step code explanations
-- Refer to inline code comments for implementation details
-
----
-
->>>>>>> cdb62e303c6c5d77b613a8a2239b071a2147ff0c
 ## 📄 License
 
 This project is open-source and available for educational and research purposes.

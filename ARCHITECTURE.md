@@ -32,7 +32,7 @@ This document provides a comprehensive technical breakdown of both models and th
     │        ↓                                              │
     │  Decoder(.m×LSTM256) → Attention → Dense → Output    │
     │                                                       │
-    │  Params: 8.9M  |  F1: 0.45-0.55  |  Time: 40min      │
+    │  Params: 8.9M  |  F1: 0.45-0.55  |  Time: 2hour      │
     └──────────────────────────────────────────────────────┘
                     ↓                    ↓
     ┌─────────────────────────┐  ┌──────────────────────┐
@@ -49,7 +49,7 @@ This document provides a comprehensive technical breakdown of both models and th
     │  • Decoder: Cross-attention to encoder               │
     │  • Fine-tuned on 5k environmental news               │
     │                                                       │
-    │  Params: 406M  |  ROUGE-1: 0.48  |  Time: 20min      │
+    │  Params: 406M  |  ROUGE-1: 0.48  |  Time: 1hour      │
     └──────────────────────────────────────────────────────┘
                                ↓
     ┌──────────────────────────────────────────────────────┐
