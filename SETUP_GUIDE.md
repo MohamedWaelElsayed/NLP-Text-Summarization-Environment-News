@@ -496,12 +496,12 @@ NLP-Text-Summarization-Environment-News/
 
 2. **Train Custom Model** (Optional)
    - Run Milestone 2 (LSTM)
-   - Takes ~40 minutes
+   - Takes ~2-2.5 hours
    - Learn deep learning fundamentals
 
 3. **Deploy Production Model** ✅
    - Run Milestone 3 (BART fine-tuning)
-   - Takes ~20 minutes
+   - Takes ~1.5 hours
    - Better performance than M2
 
 4. **Evaluate & Compare**
