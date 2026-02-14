@@ -287,19 +287,6 @@ This project demonstrates:
 
 ---
 
-<<<<<<< HEAD
-=======
-## 📧 Contact & Support
-
-For questions or improvements:
-
-- Check the milestone-specific READMEs for detailed documentation
-- Review the Jupyter notebook for step-by-step code explanations
-- Refer to inline code comments for implementation details
-
----
-
->>>>>>> cdb62e303c6c5d77b613a8a2239b071a2147ff0c
 ## 📄 License
 
 This project is open-source and available for educational and research purposes.
