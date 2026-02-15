@@ -298,7 +298,7 @@ This project demonstrates:
 
 ### Supervisor
 
-- **Dr. Mervat Abu-Elkheir**  
+- **[Dr. Mervat Abu-Elkheir](https://scholar.google.com.eg/citations?user=OcVl66wAAAAJ&hl=en)**  
    _Associate Professor, German University in Cairo_
 ---
 
