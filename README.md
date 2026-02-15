@@ -287,6 +287,19 @@ This project demonstrates:
 - **Evaluate**: ROUGE metrics computation
 - **PyTorch**: Tensor operations
 
+## 👥 Authors
+
+- **Noor Magdy**
+- **Mohamed Wael**
+
+### Academic Affiliation
+
+**Faculty of Informatics and Computer Science, German International University (GIU)**
+
+### Supervisor
+
+- **Dr. Mervat Abu-Elkheir**  
+   _Associate Professor, German University in Cairo_
 ---
 
 ## 📄 License
